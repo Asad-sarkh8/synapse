@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![image](https://github.com/Asad-sarkh8/synapse/assets/83243854/aafb7c9a-a8a5-4393-a8d7-46b2f3186d65)
+
+![image](https://github.com/Asad-sarkh8/synapse/assets/83243854/42c03425-b723-48d8-8002-8129931c14e8)
+
+![image](https://github.com/Asad-sarkh8/synapse/assets/83243854/3cf11588-6033-4499-8382-b1a786f940f4)
+
+![image](https://github.com/Asad-sarkh8/synapse/assets/83243854/74fce17e-4c34-4466-a967-d4dad09fcd56)
+
+
 ## Getting Started
 
 First, run the development server:
